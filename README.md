@@ -1,7 +1,2 @@
 # TecWeb
-
-Páginas para web
-
-Função: Aluno
-
-Faculdade IMpacta
+Repositório para entregas da disciplina TecWeb
