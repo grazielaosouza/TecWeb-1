@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<link rel="stylesheet" href="style.css">    
+    <head>
+            
+        <title>Tecnologia e Projeto Web</title>
+        <meta charset="utf-8"/>
+    </head>
+    <body>
+      <div class="borda">
+        <p>
+                  Faculdade Impacta de Tecnologia<br>Curso: Sistemas da Informação<br>Disciplina: Tecnologias Web<br>
+        
+        </p>
+    </body>
+</html>
